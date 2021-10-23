@@ -1,0 +1,9 @@
+/node_modules/
+/01-basic-ts/node_modules
+/01-basic-ts/03-basic-project/node_modules
+/01-basic-ts/03-basic-project/.cache
+/02-basic-react-ts/node_modules
+/03-basic-react-redux-ts/node_modules
+/04-webpack/node_modules
+/05-code-editor/node_modules
+
