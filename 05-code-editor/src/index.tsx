@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './assets/styles/main.scss'
 import { App } from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bulmaswatch/superhero/bulmaswatch.min.css'
 
 ReactDOM.render(
   <App />
